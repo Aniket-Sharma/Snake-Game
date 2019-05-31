@@ -2,12 +2,12 @@
 The game we all loved to play in our childhood. The game is designed using pygames and a needs lot of improvements yet. Any suggestion is appreciated. 
 
 The game is under-development and needs a lot of work.
-Its just an rough blue-print.
+Its just a rough blue-print.
 
 If you have any suggestions to improve the game, please do let us know.
 
 To play the game 
-Clone the repository and make sure your system has following softwares installed :
+Clone the repository and make sure you have following requirments fullfiled :
   
   1. PYTHON (This is designed with Python 3.7 but any 3.0+ version of python should work)
   2. PYGAMES (This is designed with Pygames version 1.9 but any latest version should work)
